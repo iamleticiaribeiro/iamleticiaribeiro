@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou a Letícia Ribeiro
+### Olá!👋 Eu sou a Letícia :)
 
 - 🖥️ Sou uma estudante de Sistemas de Computação | UFF
 - 🌱 Atualmente estou aprendendo Python 
